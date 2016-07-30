@@ -1,0 +1,16 @@
+{
+  "name": "migrate_sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.7",
+    "mssql": "^3.3.0"
+  }
+}
